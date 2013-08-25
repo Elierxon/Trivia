@@ -1,0 +1,52 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/btnStyleOrange"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgstyleshape" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/TextView01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="30dp"
+            android:layout_marginTop="35dp"
+            android:text="@string/titulotrivia"
+            android:textSize="48sp"
+            android:typeface="serif"
+            tools:context=".MainActivity" />
+
+        <Button
+            android:id="@+id/button2m"
+            style="@style/btnStylepale_brown"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="19dp"
+            android:text="@string/Jugar" />
+
+        <Button
+            android:id="@+id/button3m"
+            style="@style/btnStylepale_brown"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="@string/Puntuaciones" />
+
+        <Button
+            android:id="@+id/button1m"
+            style="@style/btnStylepale_brown"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18dp"
+            android:text="@string/How_To_Play" />
+    </LinearLayout>
+
+</RelativeLayout>

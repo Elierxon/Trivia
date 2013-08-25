@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Trivia</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="titulotrivia">Trivia</string>
+    <string name="Jugar">Jugar</string>
+    <string name="modo_arcade">Arcade</string>
+    <string name="modo_supervivencia">Supervivencia</string>
+    <string name="How_To_Play">Como se Juega</string>
+    <string name="Puntuaciones">Puntuaciones</string>
+
+</resources>

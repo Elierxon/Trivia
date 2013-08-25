@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Cuestion1">
+        <item >Mejor compañia videojuegos 2016</item>
+        <item >Nintendo</item>
+        <item >Pikon Fly</item>
+        <item >Sony</item>
+        <item >Microsoft</item>
+        <item >2</item>
+    </string-array>
+    <string-array name="Cuestion2">
+        <item >Votado el mas mejor del 2016</item>
+        <item >Elierxon</item>
+        <item >Akira Toriyama</item>
+        <item >Stan Lee</item>
+        <item >Hideo kojima</item>
+        <item >1</item>
+    </string-array>
+    <string-array name="Cuestion3">
+        <item >Mejor compañia videoujegos 2016</item>
+        <item >Nintendo</item>
+        <item >Pikon Fly</item>
+        <item >Sony</item>
+        <item >Microsoft</item>
+        <item >2</item>
+    </string-array>
+    <string-array name="Cuestion4">
+        <item >Votado el mas mejor del 2016</item>
+        <item >Elierxon</item>
+        <item >Akira Toriyama</item>
+        <item >Stan Lee</item>
+        <item >Hideo kojima</item>
+        <item >1</item>
+    </string-array>
+    <string-array name="Cuestion5">
+        <item >Mejor compañia videoujegos 2016</item>
+        <item >Nintendo</item>
+        <item >Pikon Fly</item>
+        <item >Sony</item>
+        <item >Microsoft</item>
+        <item >2</item>
+    </string-array>
+    <string-array name="Cuestion6">
+        <item >Votado el mas mejor del 2016</item>
+        <item >Elierxon</item>
+        <item >Akira Toriyama</item>
+        <item >Stan Lee</item>
+        <item >Hideo kojima</item>
+        <item >1</item>
+    </string-array>
+    
+</resources>

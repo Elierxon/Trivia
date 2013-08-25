@@ -1,0 +1,48 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="eli.trivia"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="15" />
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".PreguntaActivity">
+        </activity>
+        <activity
+            android:name=".JugarActivity">
+        </activity>
+        <activity
+            android:name=".FinActivity">
+        </activity>
+        <activity
+            android:name=".HowtoActivity"
+            android:theme="@android:style/Theme.Dialog"
+            android:label="Instrucciones">
+        </activity>
+        <activity
+            android:name=".PuntuacionesActivity"
+            android:theme="@android:style/Theme.Dialog"
+            android:label=""
+            >
+        </activity>
+        <activity
+            android:name=".ResultadoActivity">
+        </activity>
+    </application>
+
+</manifest>

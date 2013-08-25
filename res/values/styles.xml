@@ -1,0 +1,78 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Light" >
+    </style>
+    <color name="FondoColor">#87A6F0</color>
+    <drawable name="budefault">#00CC00</drawable>
+    <drawable name="buhigh">#00AA00</drawable>
+    <drawable name="bupress">#00FF00</drawable>
+    
+    <style name="btnStyleOrange" parent="@android:style/Widget.Button">
+       <item name="android:textSize">15sp</item>
+       <item name="android:textStyle">bold</item>
+       <item name="android:textColor">#FFFFFF</item>
+       <item name="android:gravity">center</item>
+       <item name="android:shadowColor">#000000</item>
+       <item name="android:shadowDx">1</item>
+       <item name="android:shadowDy">1</item>
+       <item name="android:shadowRadius">0.6</item>
+       <item name="android:background">@drawable/buttonstyle</item>
+       <item name="android:padding">10dip</item>
+   </style>
+   
+    <style name="btnStyleGenoa" parent="@android:style/Widget.Button">
+       <item name="android:textSize">15sp</item>
+       <item name="android:textStyle">bold</item>
+       <item name="android:textColor">#FFFFFF</item>
+       <item name="android:gravity">center</item>
+       <item name="android:shadowColor">#000000</item>
+       <item name="android:shadowDx">1</item>
+       <item name="android:shadowDy">1</item>
+       <item name="android:shadowRadius">0.6</item>
+       <item name="android:background">@drawable/genoabuttonstyle</item>
+       <item name="android:padding">10dip</item>
+   </style>
+   
+    <style name="btnStylepale_brown" parent="@android:style/Widget.Button">
+       <item name="android:textSize">15sp</item>
+       <item name="android:textStyle">bold</item>
+       <item name="android:textColor">#FFFFFF</item>
+       <item name="android:gravity">center</item>
+       <item name="android:shadowColor">#000000</item>
+       <item name="android:shadowDx">1</item>
+       <item name="android:shadowDy">1</item>
+       <item name="android:shadowRadius">0.6</item>
+       <item name="android:background">@drawable/palebrownbuttonstyle</item>
+       <item name="android:padding">10dip</item>
+       <item name="android:layout_marginTop">7dip</item>
+       <item name="android:layout_marginBottom">7dip</item>
+   </style>
+   
+    <style name="btnStylelivid_brown " parent="@android:style/Widget.Button">
+       <item name="android:textSize">15sp</item>
+       <item name="android:textStyle">bold</item>
+       <item name="android:textColor">#FFFFFF</item>
+       <item name="android:gravity">center</item>
+       <item name="android:shadowColor">#000000</item>
+       <item name="android:shadowDx">1</item>
+       <item name="android:shadowDy">1</item>
+       <item name="android:shadowRadius">0.6</item>
+       <item name="android:background">@drawable/lividbrownbs</item>
+       <item name="android:padding">10dip</item>
+   </style>
+   
+    <style name="btnStyleWhiskey" parent="@android:style/Widget.Button">
+       <item name="android:textSize">15sp</item>
+       <item name="android:textStyle">bold</item>
+       <item name="android:textColor">#FFFFFF</item>
+       <item name="android:gravity">center</item>
+       <item name="android:shadowColor">#000000</item>
+       <item name="android:shadowDx">1</item>
+       <item name="android:shadowDy">1</item>
+       <item name="android:shadowRadius">0.6</item>
+       <item name="android:background">@drawable/whiskeybs</item>
+       <item name="android:padding">10dip</item>
+   </style>
+    <color name="fondopanel">#FFD83D</color>
+
+</resources>
